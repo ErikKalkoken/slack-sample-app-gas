@@ -35,7 +35,7 @@ Here is what you need to run this app:
     - SLACK_CLIENT_SECRET: Is the client secret of your Slack app
     - SHEET_ID: Is the ID of your Google spreadsheet
    
-    >> Tip: You can get the ID for your google spreadsheet from its url. The format is: `https://docs.google.com/spreadsheets/d/{ID}/edit#gid=0`, where `{ID}` is the ID (without the brackets).
+    > Tip: You can get the ID for your google spreadsheet from its url. The format is: `https://docs.google.com/spreadsheets/d/{ID}/edit#gid=0`, where `{ID}` is the ID (without the brackets).
    
 9. Activate your Slack app for distribution under Manage Distribution
    
